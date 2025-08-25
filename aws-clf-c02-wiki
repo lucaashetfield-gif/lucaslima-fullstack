@@ -1,4 +1,3 @@
 git checkout -b adicionar-wiki-aws
 echo "Wiki AWS CLF-C02" > aws-clf-c02-wiki.md
-echo "Documentação e dicas para a prova AWS CLF-C02." >> aws-clf-c02-wiki.md nano aws-clf-c02-wiki.md git add aws-clf-c02-wiki.md
-git commit -m " https://github.com/lucaashetfield-gif git push origin lucaashetfield-wiki-aws
+echo "Documentação e dicas para a prova AWS CLF-C02." >> aws-clf-c02-wiki.md nano aws-clf- commit -m " https://github.com/lucaashetfield-gif git push origin lucaashetfield-wiki-aws
